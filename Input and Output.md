@@ -7,11 +7,11 @@ import java.util.Scanner;//1.導包：導入Scanner這個包，這個步驟必�
 Scanner sc=new Scanner(System.in);//2.創建對象：表示要用Scanner這個類，只有sc這個變量名可以變，其他都不能變  
 int a=sc.nextInt();//3.接收數據：只有a這個變量名可以變，其他都不能變  
 
-③制表符'\t'的作用：在打印的时候，自动将前面字符串的长度补齐到8或8的整数倍，最少补1个空格，最多补8个空格
+③制表符'\t'的作用：在打印的時候，自動將前面字符串的長度補齊到8或8的整數倍，最少補1个空格，最多補8个空格
 
 ④換行符'\n'的作用：在打印的時候，自動在插入的位置換行
 
-### 示例代码：
+### 示例代碼：
 ```Java
 import java.util.Scanner;//導包：導入Scanner這個包,這個步驟必須放在類定義的上方
 public class Input_Output {
