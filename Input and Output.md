@@ -1,7 +1,7 @@
 # Java中的輸出与輸入
 ①Java輸出固定句式：
-System.out.println();
-(println()是自帶換行效果的，如果不想要換行，使用print()即可)
+System.out.println();  
+(***println()是自帶換行效果的，如果不想要換行，使用print()即可***)
 
 ②Java輸入三步曲：   
 import java.util.Scanner;//1.導包：導入Scanner這個包，這個步驟必須放在類定義的上方  
